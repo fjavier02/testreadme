@@ -41,3 +41,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * email: [franciscolopez1995@gmail.com](franciscolopez1995@gmail.com)
 * Github: [@fjavier02](https://github.com/fjavier02)
 * LinkedIn: [@francisco-lopez](https://www.linkedin.com/in/francisco-lopez-b33a64110/)
+* 
