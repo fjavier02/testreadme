@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to MAGApiGitHub 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/francisco-lopez" target="_blank">
-    <img alt="Twitter: francisco-lopez" src="https://img.shields.io/twitter/follow/francisco-lopez.svg?style=social" />
+  <a href="https://twitter.com/@francisco_kurt" target="_blank">
+    <img alt="Twitter: francisco_kurt" src="https://img.shields.io/twitter/follow/francisco_kurt.svg?style=social" />
   </a>
 </p>
 
